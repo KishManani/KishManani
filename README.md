@@ -1,7 +1,12 @@
 ### Kishan Manani
-I am a data science and machine learning lead, open source contributor, and online course developer. :wave:
+Hello there! 👋 
 
-If you're interested in time series forecasting then please check out this course: [Feature engineering for time series forecasting](https://www.courses.trainindata.com/p/feature-engineering-for-forecasting). :chart_with_upwards_trend:
+👨‍💻 I am a data science and machine learning lead, open source contributor, and online course developer. 
+
+:chart_with_upwards_trend: If you're interested in time series forecasting then check out this course: [Feature engineering for time series forecasting](https://www.courses.trainindata.com/p/feature-engineering-for-forecasting). 
+
+### Blog posts
+- [Multi-Seasonal Time Series Decomposition Using MSTL in Python](https://towardsdatascience.com/multi-seasonal-time-series-decomposition-using-mstl-in-python-136630e67530)
 
 ### Connect with me
 <a href="https://twitter.com/KishManani"><img src="./assets/images/twitter.svg" alt="Twitteri" width="50">

@@ -4,7 +4,7 @@ Hello there! 👋
 👨‍💻 I am a data science and machine learning lead, open source contributor, and online course developer. 
 
 :chart_with_upwards_trend: If you're interested in time series forecasting then check out these courses I've co-created: 
-- [Feature engineering for time series forecasting](https://www.courses.trainindata.com/p/feature-engineering-for-forecasting).
+- [Feature engineering for time series forecasting](https://www.courses.trainindata.com/p/feature-engineering-for-forecasting)
 - [Forecasting with machine learning](https://www.trainindata.com/p/forecasting-with-machine-learning)
 
 ### Blog posts
